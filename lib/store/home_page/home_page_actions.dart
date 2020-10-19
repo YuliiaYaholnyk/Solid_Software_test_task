@@ -1,0 +1,3 @@
+class ChangeColorAction {
+  ChangeColorAction();
+}
